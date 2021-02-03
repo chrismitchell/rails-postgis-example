@@ -1,7 +1,7 @@
 default: &default
   adapter: postgis
   encoding: unicode
-  host: db
+  host: localhost
   username: postgres
   password: password
   pool: 5
